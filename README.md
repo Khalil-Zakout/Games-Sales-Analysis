@@ -10,7 +10,7 @@ This analysis provides valuable insights for stakeholders in the gaming industry
 
 
 ## Project Structure
-1) Jupyter Notebooks:
+/**1) Jupyter Notebooks:**/
    
    + Games Sales Cleaning.ipynb : Includes Python code for **data cleaning** and preprocessing.
    + Games Sales Charts.ipynb : Contains Python scripts for visualizing game sales data using **Matplotlib**.
@@ -19,7 +19,7 @@ This analysis provides valuable insights for stakeholders in the gaming industry
 
 
   
-2) Excel Sheets:
+/**2) Excel Sheets:**/
   
     + Games Sales.csv : Raw data files used as an overall look and initial analysis.
   
@@ -28,17 +28,17 @@ This analysis provides valuable insights for stakeholders in the gaming industry
         - **Interactive Dashboard** visualizing game sales trends, comparisons, and insights.
 
   
-3) Power BI Project:
+/**3) Power BI Project:**/
     + **Interactive Dashboard** visualizing game sales trends, comparisons, and insights.
 
 ## Skills and Techniques Used
-1) Data Analysis with Python:
+/**1) Data Analysis with Python:**/
    
    + **Pandas**: Used for data cleaning, transformation, and aggregation.
    + **Matplotlib**: Created various types of visualizations, including horizontal bar charts and line plots.
 
 
-2) Data Analysis with Excel:
+/**2) Data Analysis with Excel:**/
    
    + **Pivot Tables**: Summarized and analyzed data.
    + **Formulas and Functions**: Applied to perform calculations and data manipulations.
@@ -46,7 +46,7 @@ This analysis provides valuable insights for stakeholders in the gaming industry
    + **Slicers**: Added interactive filters to the dashboard.
 
 
-3) Data Visualization with Power BI:
+/**3) Data Visualization with Power BI:**/
    
    + **Dashboards**: Created interactive dashboards to visualize game sales data.
    + **DAX**: Used for creating measures and calculated columns.
