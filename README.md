@@ -13,7 +13,7 @@ This analysis provides valuable insights for stakeholders in the gaming industry
 #### **1) Jupyter Notebooks:** ####
 
    **`Games Sales Cleaning.ipynb`** : Includes Python code for **`Data Cleaning`** and preprocessing.    
-   **`Games Sales Charts.ipynb`** : Contains Python scripts for visualizing game sales data using **`Matplotlib`**.
+   **`Games Sales Charts.ipynb`** : Contains Python scripts for visualizing game sales data using **`Matplotlib`** and saving them into **`Python Charts`** directory.
    
 
 
